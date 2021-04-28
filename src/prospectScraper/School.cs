@@ -70,6 +70,7 @@ namespace prospectScraper
                 "CIncinnati" => "Cincinnati",
                 "Concordia St. Paul" => "Concordia–St. Paul",
                 "Southern Mississippi" => "Southern Miss",
+                "Lousiana Tech" => "Louisiana Tech",
                 _ => schoolName,
             };
             return schoolName;

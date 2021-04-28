@@ -63,6 +63,47 @@ Pick,Round,Player,School,Position,Team,ReachValue,Points,Date,State
 62,2,Quinn Meinerz,UW–Whitewater,OC,Green Bay,-20,15,2021-04-21,Wisconsin
 63,2,Brevin Jordan,Miami (FL),TE,Washington (SIM Trade),-34,15,2021-04-21,Florida
 64,2,Levi Onwuzurike,Washington,DL3T,Tampa Bay,+12,15,2021-04-21,Washington
+65,3,Hamsah Nasirildeen,Florida State,S,Atlanta (SIM Trade),+1,10,2021-04-21,Florida
+66,3,Hunter Long,Boston College,TE,NY Jets,-39,10,2021-04-21,Massachusetts
+67,3,Ben Cleveland,Georgia,OG,Houston,+7,10,2021-04-21,Georgia
+68,3,Tyler Shelvin,LSU,DL1T,Atlanta,-3,10,2021-04-21,Louisiana
+69,3,Dylan Moses,Alabama,OLB,Cincinnati,+19,10,2021-04-21,Alabama
+70,3,Eric Stokes,Georgia,CB,Philadelphia,+0,10,2021-04-21,Georgia
+71,3,Jaylen Twyman,Pitt,DL5T,Denver,+14,10,2021-04-21,Pennsylvania
+72,3,Jay Tufele,USC,DL3T,Detroit,+21,10,2021-04-21,California
+73,3,Kyle Trask,Florida,QB,Carolina,-8,10,2021-04-21,Florida
+74,3,Kellen Mond,Texas A&M,QB,Washington (Trade),-12,10,2021-04-21,Texas
+75,3,Milton Williams,Louisiana Tech,DL5T,Dallas,-62,10,2021-04-21,Louisiana
+76,3,Dillon Radunz,North Dakota State,OT,NY Giants,+1,10,2021-04-21,North Dakota
+77,3,Ronnie Perkins,Oklahoma,EDGE,LA Chargers,+0,10,2021-04-21,Oklahoma
+78,3,Alim McNeill,NC State,DL3T,Minnesota,+9,10,2021-04-21,North Carolina
+79,3,Patrick Jones II,Pitt,EDGE,Las Vegas (Trade),-8,10,2021-04-21,Pennsylvania
+80,3,Kelvin Joseph,Kentucky,CB,Las Vegas,-12,10,2021-04-21,Kentucky
+81,3,Rashad Weaver,Pitt,EDGE,Miami,-9,10,2021-04-21,Pennsylvania
+82,3,Jabril Cox,LSU,OLB,Washington,+29,10,2021-04-21,Louisiana
+83,3,Paulson Adebo,Stanford,CB,Chicago,-10,10,2021-04-21,California
+84,3,Cameron McGrone,Michigan,OLB,Philadelphia (Trade),+12,10,2021-04-21,Michigan
+85,3,Jamin Davis,Kentucky,ILB,Tennessee,+9,10,2021-04-21,Kentucky
+86,3,Elijah Moore,Ole Miss,WRS,NY Jets (Trade),+28,10,2021-04-21,Mississippi
+87,3,Walker Little,Stanford,OT,Pittsburgh,-2,10,2021-04-21,California
+88,3,Baron Browning,Ohio State,ILB,LA Rams,+9,10,2021-04-21,Ohio
+89,3,Chazz Surratt,North Carolina,OLB,Cleveland,+15,10,2021-04-21,North Carolina
+90,3,Aaron Banks,Notre Dame,OG,Minnesota (Trade),-20,10,2021-04-21,Indiana
+91,3,Aaron Robinson,UCF,CB,Cleveland (Trade),-4,10,2021-04-21,Florida
+92,3,Dyami Brown,North Carolina,WR,Green Bay,+19,10,2021-04-21,North Carolina
+93,3,Brady Christensen,BYU,OT,Buffalo,-7,10,2021-04-21,Utah
+94,3,Spencer K. Brown,Northern Iowa,OT,Kansas City,+3,10,2021-04-21,Iowa
+95,3,James Hudson,Cincinnati,OT,Tampa Bay,-27,10,2021-04-21,Ohio
+96,3,Bobby Brown III,Texas A&M,DL1T,Dallas (SIM Trade),-11,10,2021-04-21,Texas
+97,3,Seth Williams,Auburn,WR,LA Chargers (Comp),+30,10,2021-04-21,Alabama
+98,3,Marlon Tuipulotu,USC,DL3T,New Orleans (Comp),+2,10,2021-04-21,California
+99,3,Talanoa Hufanga,USC,S,Dallas (Comp),+14,10,2021-04-21,California
+100,3,Quincy Roche,Miami (FL),EDGE,Tennessee (Comp),-1,10,2021-04-21,Florida
+101,3,Dayo Odeyingbo,Vanderbilt,DL5T,Detroit (Trade),+3,10,2021-04-21,Tennessee
+102,3,Drake Jackson,Kentucky,OC,San Francisco (Comp),-18,10,2021-04-21,Kentucky
+103,3,Darius Stills,West Virginia,DL5T,LA Rams (Comp),+4,10,2021-04-21,West Virginia
+104,4,Shaka Toney,Penn State,EDGE,Baltimore (Comp),-26,8,2021-04-21,Pennsylvania
+105,4,Pete Werner,Ohio State,ILB,New Orleans (Comp),-4,8,2021-04-21,Ohio
 106,4,Tommy Tremble,Notre Dame,TE,Jacksonville,-5,8,2021-04-21,Indiana
 107,4,Josh Myers,Ohio State,OC,NY Jets,+24,8,2021-04-21,Ohio
 108,4,Jamie Newman,Georgia,QB,Atlanta,-5,8,2021-04-21,Georgia
@@ -96,7 +137,7 @@ Pick,Round,Player,School,Position,Team,ReachValue,Points,Date,State
 136,4,Ihmir Smith-Marsette,Iowa,WR,Kansas City,+15,8,2021-04-21,Iowa
 137,4,Rhamondre Stevenson,Oklahoma,RB,Tampa Bay,-16,8,2021-04-21,Oklahoma
 138,4,Tommy Doyle,Miami (OH),OT,Dallas (Comp),-17,8,2021-04-21,Ohio
-139,4,Marlon Williams,UCF,WR,Dallas (SIM Trade),+15,8,2021-04-21,Florida
+139,4,Marlon Williams,UCF,WR,Dallas,+15,8,2021-04-21,Florida
 140,4,Olaijah Griffin,USC,CB,Pittsburgh (Comp),+6,8,2021-04-21,California
 141,4,Divine Deablo,Virginia Tech,S,LA Rams (Comp),+18,8,2021-04-21,Virginia
 142,4,JaCoby Stevens,LSU,S,Green Bay (Comp),-6,8,2021-04-21,Louisiana
